@@ -1,6 +1,7 @@
 console.log('hello world')
 
 var x = !true
+
 console.log(x) 
 
 const obj = {
